@@ -6,8 +6,8 @@ const livros = [
         },
           {
             "id" : 2,
-            "title" : "Dune",
-            "author" : "Batata"
+            "title" : "JOJO's Bizarre Adventure",
+            "author" : "Hirohiko Araki"
         }
     ]
 
